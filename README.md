@@ -43,4 +43,4 @@ Complete the following steps:
 
 ![alt text](https://static.bc-edx.com/data/dl-1-2/m14/lms/img/hw02.jpg)
 
-6- Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
+6- Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. 
